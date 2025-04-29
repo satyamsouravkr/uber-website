@@ -1,0 +1,240 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar{
+    margin: 0;
+    padding: 5px 0;
+
+}
+
+/* main-container */
+.main-container{
+    padding: 80px 0;
+    background: url('Images/fleet-mgmt/LandingPage_GlobalSupplier_Tablet_768x592-2x.webp') no-repeat top center ;
+    color: #fff;
+}
+
+.main-container .btn-primary{
+    background-color: white;
+    color: #000;
+    border: none;
+    padding: 10px 20px ;
+    display: block;
+    margin: 20px 0;
+}
+
+.main-container .btn-primary:hover{
+    background-color: #EEEEEE;
+}
+
+
+/* fleet-offers */
+.fleet-offers{
+    padding: 50px 0;
+    color: #fff;
+    background-color: #000;
+}
+
+.fleet-offers-box{
+    width: 100%;
+    /* height: 100px; */
+    /* background-color: black; */
+    margin: 20px 0;
+    padding: 10px 0;
+}
+
+.fleet-offers-box h5{
+    margin: 10px 0;
+}
+
+/* tool-section */
+.tool-section{
+    padding: 50px 0;
+    background-color: #000;
+    color: #fff;
+}
+
+/* fleet-features */
+.fleet-features{
+    padding: 80px 0;
+    color: #fff;
+    background-color: #000;
+}
+
+.fleet-features-box-img{
+    padding: 20px 0;
+    width: 100%;
+    /* height: 10px; */
+    background-color: black;
+    text-align: center;
+}
+
+.fleet-features-box-lines{
+    padding: 0;
+    background-color: black;
+}
+
+.fleet-features-box-lines .vr-line{
+    width: 2px;
+    background-color: white;
+    height: 113px;
+    margin: 0 auto;
+}
+
+.fleet-features-box-lines .sm-box{
+    width: 10px;
+    height: 10px;
+    margin: 2px auto;
+    background-color: white;
+}
+
+.fleet-features-box-desc{
+    width: 100%;
+    background-color: black;
+    padding: 90px 0 0px 0;
+}
+
+/* earnings */
+.earnings{
+    padding: 80px 0;
+    text-align: center;
+    background-color: #A9C9FF;
+}
+
+.questions{
+    padding: 80px 0;
+}
+
+.questions a{
+    padding: 15px;
+    color: #000;
+    display: block;
+    text-decoration: none;
+    border-bottom: solid 1px #F3F3F3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+.footer {
+    padding: 80px 0 50px 0;
+    background-color: black;
+    color: white;
+}
+
+.footer .row {
+    padding: 20px 0;
+}
+
+.footer .uberbutton {
+    padding: 10px 15px;
+    border-radius: 30px;
+    color: #fff;
+    text-decoration: none;
+    font: bold 20px arial;
+    transition: all 0.3s;
+}
+
+.footer .uberbutton:hover {
+    background-color: #333333;
+}
+
+.footer .visithelp {
+    color: #fff;
+    font: 15px arial;
+    text-decoration: none;
+}
+
+.footer .visithelp:hover {
+    border-bottom: solid 1px white;
+}
+
+.footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footer ul li {
+    margin: 10px 0;
+}
+
+.footer ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.footer ul li a:hover {
+    color: #AFAFAF;
+}
+
+.footer h4 {
+    margin: 30px 0;
+}
+
+.hr-line {
+    height: 1px;
+    background-image: linear-gradient(to right, transparent, #AFAFAF, transparent);
+}
+
+.icons {
+    padding: 10px 20px;
+    border-radius: 7px;
+    text-decoration: none;
+    color: white;
+    margin: 0 30px 0 0;
+    transition: all 0.3s;
+}
+
+.icons:hover {
+    background-color: #333333;
+}
+
+.images-app img {
+    height: 40px;
+    margin-right: 10px;
+}
+
+.icon-last {
+    margin: 0;
+    margin-left: 10px;
+    color: #afafaf;
+}
+
+.icon-last:hover {
+    color: white;
+}
